@@ -7,29 +7,29 @@
     "autoClean": false,
     "adminOnly": false,
     "keyAdminOnly": "",
-    "commandDisabled": [],
-    "eventDisabled": [],
-    "EMAIL": "",
+    "commandEnable": [],
+    "eventEnabled": [],
+    "EMAIL "",
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Silly B",
-    "PREFIX": "+",
+    "PREFIX": ".",
     "OTHERBOT": [
         ""
     ],
     "UNSENTVIP": [
-        "61550558518720",
+        "61563309906630",
         ""
     ],
     "GOD": [
-        "61550558518720",
+        "61563309906630",
         ""
     ],
     "ADMINBOT": [
         "100040426712109",
         ""
     ],
-    "OWNER": "🆁︎🆄︎🅳︎🆁︎🅰︎ 🅹︎🅰︎🅰︎🆃︎",
+    "OWNER": "𝐉𝐀𝐍𝐔",
     "AGE": "21",
     "GENDER": "𝗠𝗮𝗟𝗲",
     "FACEBOOK": "https://www.facebook.com/share/15Z3vxfcBJ/",
